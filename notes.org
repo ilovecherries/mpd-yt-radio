@@ -1,0 +1,8 @@
+#+TITLE: Notes
+
+* mpd
+- https://wiki.archlinux.org/title/Icecast#MPD
+- 
+
+* typescript
+- https://pdconsec.net/blogs/devnull/asynchronous-constructor-design-pattern
